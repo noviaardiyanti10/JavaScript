@@ -1,1 +1,2 @@
 # JavaScript
+Belajar JavaScript Pemula
